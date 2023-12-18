@@ -1,0 +1,21 @@
+/* Banner.css */
+.date-range-picker {
+    position: relative;
+  }
+  
+
+  .date-input {
+    
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    position: relative;
+    z-index: 1;
+  }
+  .calendars-container {
+    position: absolute;
+    
+    left: 40%;
+    z-index: 1;
+  }  
+/* Add any additional styles as needed */

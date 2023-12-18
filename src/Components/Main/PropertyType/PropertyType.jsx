@@ -36,7 +36,7 @@ const PropertyType = () => {
 
  
   return (
-    <div className='px-20'>
+    <div className='px-32'>
       <h1>Property Type</h1>
 
       <Carousel responsive={responsive}>

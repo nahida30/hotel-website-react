@@ -8,7 +8,7 @@ const Property = ({image}) => {
     
     return (
         <div className='card' style={cardStyle}>
-        <img src={imageUrl} alt='Property 1' />
+        <img className="h-[200px]" src={imageUrl} alt='Property 1' />
         <h2>Visit</h2>
       </div>
     );
